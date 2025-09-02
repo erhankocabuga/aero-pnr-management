@@ -1,4 +1,6 @@
 # Aero PNR Management
+Hello, welcome to my GitHub. This project is a system to manage airline passenger records (PNRs), including customer and flight information.
+
 I am building this project to create a backend system with Java Spring Boot for managing customers and products. My goal is to make a system that is simple, easy to maintain, and it can grow in the future. I'm planning to use modern architecture principles and clean code practices during development.
 
 At the beginning, the main parts of the system will be;
